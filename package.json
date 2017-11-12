@@ -1,0 +1,27 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "MEAN Stack APP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamrosh/MEANStackNew.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK"
+  ],
+  "author": "Hamrosh V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamrosh/MEANStackNew/issues"
+  },
+  "homepage": "https://github.com/hamrosh/MEANStackNew#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.1"
+  }
+}
